@@ -23,7 +23,31 @@ You can also run this Jupiter Notebook project remotely at [https://colab.resear
 
 [**Printscreen samples**]<br>
 
-![]()
+![./prints/print01.png](./prints/print01.png)
+
+![./prints/print02.png](./prints/print02.png)
+
+![./prints/print03.png](./prints/print03.png)
+
+![./prints/print04.png](./prints/print04.png)
+
+![./prints/print05.png](./prints/print05.png)
+
+![./prints/print06.png](./prints/print06.png)
+
+![./prints/print07.png](./prints/print07.png)
+
+![./prints/print08.png](./prints/print08.png)
+
+![./prints/print09.png](./prints/print09.png)
+
+![./prints/print10.png](./prints/print10.png)
+
+![./prints/print11.png](./prints/print11.png)
+
+![./prints/print12.png](./prints/print12.png)
+
+![./prints/print13.png](./prints/print13.png)
 
 [**Support**]<br>
 If you have any suggestion or correction about the content of this repository, please, feel free to open an issue at the project issues' section:<br>

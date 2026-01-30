@@ -1,0 +1,19 @@
+name: /home/daniel/anaconda-workspace/sample-ml-correspondence-analysis/env
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - prince
+  - plotly
+  - seaborn
+  - statsmodels
+  - pandas
+  - scipy
+  - numpy
+  - matplotlib
+  - python=3.11
+  - jupyterlab
+  - openpyxl
+  - scikit-learn=1.3
+prefix: /home/daniel/anaconda-workspace/sample-ml-correspondence-analysis/env
