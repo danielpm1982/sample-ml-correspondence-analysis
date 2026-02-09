@@ -1,11 +1,11 @@
 # sample-ml-correspondence-analysis
-This is a sample Machine Learning project that exemplifies how to proceed Correspondence Analysis, Simple (SCA) and Multiple (MCA), using Python, Pandas, NumPy, SciPy, Statsmodels, Prince, Matplotlib, Seaborn and Plotly, along with Anaconda managed environments 
+This is a sample Machine Learning project that exemplifies how to proceed Correspondence Analysis, Simple (SCA) and Multiple (MCA), using Python, Pandas, NumPy, SciPy, Statsmodels, Prince, Itertools, Scikit-learn, Matplotlib, Seaborn and Plotly, along with Anaconda managed environments 
 
 © 2026 Daniel Pinheiro Maia All Rights Reserved<br>
 (see Copyright© License at the end of this text).
 
 [**Description of this repository**]<br>
-This is a sample Machine Learning project that exemplifies how to proceed Correspondence Analysis, Simple (SCA) and Multiple (MCA), using Python, Pandas, NumPy, SciPy, Statsmodels, Prince, Matplotlib, Seaborn and Plotly, along with Anaconda managed environments.
+This is a sample Machine Learning project that exemplifies how to proceed Correspondence Analysis, Simple (SCA) and Multiple (MCA), using Python, Pandas, NumPy, SciPy, Statsmodels, Prince, Itertools, Scikit-learn, Matplotlib, Seaborn and Plotly, along with Anaconda managed environments.
 
 [**Content**]<br>
 GitHub jupyter notebook | Colab dynamic code import and run:
@@ -14,6 +14,11 @@ GitHub jupyter notebook | Colab dynamic code import and run:
 
 GitHub:<br>[https://github.com/danielpm1982/sample-ml-correspondence-analysis/blob/master/sample-ml-simple-correspondence-analysis-investments.ipynb](https://github.com/danielpm1982/sample-ml-correspondence-analysis/blob/master/sample-ml-simple-correspondence-analysis-investments.ipynb)<br>
 Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-correspondence-analysis/blob/master/sample-ml-simple-correspondence-analysis-investments.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-correspondence-analysis/blob/master/sample-ml-simple-correspondence-analysis-investments.ipynb)<br>
+
+**Investments' Categories per Client Profile and per Marital Status (MCA)**
+
+GitHub:<br>[https://github.com/danielpm1982/sample-ml-correspondence-analysis/blob/master/sample-ml-multiple-correspondence-analysis-investments.ipynb](https://github.com/danielpm1982/sample-ml-correspondence-analysis/blob/master/sample-ml-multiple-correspondence-analysis-investments.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-correspondence-analysis/blob/master/sample-ml-multiple-correspondence-analysis-investments.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-correspondence-analysis/blob/master/sample-ml-multiple-correspondence-analysis-investments.ipynb)<br>
 
 [**Source Code and Run**]<br>
 Source code available at github.com, through the following link:<br>
@@ -48,6 +53,24 @@ You can also run this Jupiter Notebook project remotely at [https://colab.resear
 ![./prints/print12.png](./prints/print12.png)
 
 ![./prints/print13.png](./prints/print13.png)
+
+![./prints/print13.png](./prints/print14.png)
+
+![./prints/print13.png](./prints/print15.png)
+
+![./prints/print13.png](./prints/print16.png)
+
+![./prints/print13.png](./prints/print17.png)
+
+![./prints/print13.png](./prints/print18.png)
+
+![./prints/print13.png](./prints/print19.png)
+
+![./prints/print13.png](./prints/print20.png)
+
+![./prints/print13.png](./prints/print21.png)
+
+![./prints/print13.png](./prints/print22.png)
 
 [**Support**]<br>
 If you have any suggestion or correction about the content of this repository, please, feel free to open an issue at the project issues' section:<br>
